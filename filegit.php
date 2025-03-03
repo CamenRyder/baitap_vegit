@@ -2,4 +2,4 @@
 
 // thêm label user name, textBox: txt
 
-// thêm label password, textBox: txt
+// cập nhật labe mậht khẩu, textBox: txt
