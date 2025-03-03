@@ -1,7 +1,7 @@
 // init source 
 
-// thêm label user name, textBox: txt
+// thêm label user name, textBox: txtUserName,
 
-// cập nhật labe mậht khẩu, textBox: txt cập
+// cập nhật labe mậht khẩu, textBox: txtPassword
 
 // thêm button đăng nhập
