@@ -2,6 +2,6 @@
 
 // thêm label user name, textBox: txt
 
-// thêm label password, textBox: txt
+// cập nhật labe mậht khẩu, textBox: txt cập
 
-// thay đổi label thành đăng nhập và mật khẩu.
+// thêm button đăng nhập
